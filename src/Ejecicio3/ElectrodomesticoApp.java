@@ -1,7 +1,8 @@
 package Ejecicio3;
-
 import java.util.Scanner;
 
+
+//clase electrodomestico con atributos
 
 public class ElectrodomesticoApp {
 
